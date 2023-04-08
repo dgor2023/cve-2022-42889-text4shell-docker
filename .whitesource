@@ -1,9 +1,10 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
+    "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableReachability": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
